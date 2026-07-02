@@ -1,0 +1,10 @@
+transformers
+scikit-learn
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+numpy
